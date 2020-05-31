@@ -1,0 +1,39 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "image": "https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg",
+      "description": "Are you working for your dreams?",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://i.dell.com/das/dih.ashx/527x340/sites/csimages/product_imagery/all/image_hero_g5_hero_g-series.jpg",
+      "description": "Dell notebook",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "image": "https://www.logitech.com/content/dam/logitech/vc/en/microsoft/logitech-microsoft/logitech-microsoft-logo.png.imgo.png",
+      "description": "Microsoft",
+      "authorId": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "jr_acn",
+      "avatar": "https://avatars0.githubusercontent.com/u/6952134?s=50"
+    },
+    {
+      "id": 2,
+      "name": "dell",
+      "avatar": "https://avatars1.githubusercontent.com/u/20958494?s=50"
+    },
+    {
+      "id": 3,
+      "name": "microsoft",
+      "avatar": "https://avatars0.githubusercontent.com/u/6154722?s=50"
+    }            
+  ]
+}
